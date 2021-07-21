@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+---
 
-You can use the [editor on GitHub](https://github.com/Abusagit/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Fyodor Velikonivtsev
 
-### Markdown
+### Personal data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Place: Saint-Petersburg, Russia
 
-```markdown
-Syntax highlighted code block
+Phone: +7-952-251-80-47
 
-# Header 1
-## Header 2
-### Header 3
+EMAIL: mirotvorez00@gmail.com
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+- <u>2018 - present:</u> National Medical Research Center
+- <u>2021</u>: admitted it Bioinformatics Institute, Algorithmic Bioinformatics track
 
-**Bold** and _Italic_ and `Code` text
+### Events taken part
 
-[Link](url) and ![Image](src)
-```
+* Digital Centaur (2021)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Research techniques
 
-### Jekyll Themes
+* High sensitivity flow cytometry
+* Nanoparticles tracking analysis (NTA)
+* Data analysis and data preprocessing
+* Applying ML algorithms to the data
+* Applying Python programming skills for research and learning purposes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abusagit/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Research experience
 
-### Support or Contact
+- 2019 - present: Institute of molecular biology & genetics, [Gene and Cell Engineering Group](http://www.almazovcentre.ru/?page_id=61203&lang=en)
+  - Research field - phenotyping extracellular vesicles from biological samples and analysing their roles in pathogenesis and therapeutic approaches, applying ML and computational 
+- 2021 - present: SCAMT institute, [Laboratory of applied genomics](https://scamt.ifmo.ru/ru/nauka/gruppyi/genome-bioinformatics/) (ITMO Univercity)
+  - Research field - finding, identification viral origin, characterization of CRISPR-Cas system structure in bacterial genomes
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Languages
+
+1. Russian - native
+2. English - C1
+
+### Interest and activities
+
+- Programming & computer science related task either in biology or in other fields:
+  - Machine learning / Deep learning field
+  - Advanced optimization problems
+  - High-performance algorithms & data structures
+- New opportunities for developing my skills - bootcamps, hackathons, etc.
+- Sport activities - swimming, running
+

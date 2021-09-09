@@ -14,12 +14,13 @@ EMAIL: mirotvorez00@gmail.com
 
 ### Education
 
-- <u>2018 - present</u>: National Medical Research Center
+- <u>2018 - present</u>: Almazov`s National Medical Research Center, SpB
 - <u>2021</u>: admitted it Bioinformatics Institute, Algorithmic Bioinformatics track
 
 ### Events taken part
 
-* Digital Centaur (2021)
+* AI Bootcamp "Digital Centaur", 2021
+* HSE Summer School of machine learning in bioinformatics, 2021
 
 ### Research techniques & skills
 

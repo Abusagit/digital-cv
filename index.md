@@ -15,8 +15,10 @@ EMAIL: mirotvorez00@gmail.com
 
 ### Events taken part in ML
 
+* ML course in Bioinformatics Institute, spring 2022
 * AI Bootcamp "Digital Centaur", 2021
 * HSE Summer School of machine learning in bioinformatics, 2021
+
 
 ### Research techniques
 
@@ -30,8 +32,9 @@ EMAIL: mirotvorez00@gmail.com
 ### Software skills
 * Python programming language:
   - Frameworks and libraries for ML methods and data analysis: scikit-learn, Tensorflow, Pytorch, DGL, fastai, XGBoost
-  - Creation and optimization of ML & DL models for various tasks (image recognition, image generating, molecular properties prediction
-  - Implemented ML methods from scratch (from Regression
+  - Creation and optimization of ML & DL models for various tasks (image recognition, image generating, molecular properties prediction)
+  - Implemented ML methods from scratch (Clustering algorithms, classification, ensembles, Perceptrons)
+ 
 * R programming language:
   - Phylogenetic analysis
   - Differential expression analysis
@@ -41,7 +44,7 @@ EMAIL: mirotvorez00@gmail.com
 
 
 ### Research experience
-- <u>2022 </u>: Applying Graph Neural Networks to HiC clustering
+- <u>2022 </u>: Applying Graph Neural Networks for clustering HiC metagenomic data
 - <u>2021 - present</u>: SCAMT institute, [Laboratory of applied genomics](https://scamt.ifmo.ru/ru/nauka/gruppyi/genome-bioinformatics/) (ITMO Univercity)
   - Research field - finding, identification viral origin, characterization of CRISPR-Cas system structure in bacterial genomes, software engineering
 - <u>2019 - present</u>: Institute of molecular biology & genetics, [Gene and Cell Engineering Group](http://www.almazovcentre.ru/?page_id=61203&lang=en)
